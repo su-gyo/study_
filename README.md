@@ -28,9 +28,13 @@ typeorm version : 0.3.7
 
 ## Prerequisite
 import * as bcryptjs
+
 import jwt
+
 import passport
+
 import TypeOrm
+
 import uuid
 
 ## Usage
